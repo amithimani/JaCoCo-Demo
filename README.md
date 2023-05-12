@@ -22,7 +22,7 @@ Jacoco is configured to generate code coverage reports during the build process.
 
 ### Read the blog post for more details 
 
-To read the full blog post about using Jacoco with a Spring Boot application, visit: [https://example.com/blog/jacoco-spring-boot](https://knowledge-cafe.dev/jacoco-with-spring-boot)
+To read the full blog post about using Jacoco with a Spring Boot application, visit: [https://knowledge-cafe.dev/jacoco-with-spring-boot]
 
 ## Contributing
 
