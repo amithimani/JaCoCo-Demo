@@ -15,6 +15,11 @@ This project demonstrates how to use the Jacoco code coverage tool with a Spring
 2. Navigate to the project directory: `cd {repo-name}`
 3. Build the application: `mvn clean install`
 4. Run the application: `java -jar target/{jar-file-name}.jar`
+5. Building App with Sonar `mvn clean verify sonar:sonar \
+   -Dsonar.projectKey={PROJECT_KEY} \
+   -Dsonar.projectName={'PROJECT_NAME'} \
+   -Dsonar.host.url=http://localhost:9000 \
+   -Dsonar.token={API_TOKEN}`
 
 ### Code Coverage Reporting
 
